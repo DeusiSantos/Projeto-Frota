@@ -1,0 +1,135 @@
+-------- Administradores --------
+Administrador:
+nome: Deusineusio
+sobrenome: Santos
+idade: 23
+ email:deuSantos@frota.com
+ senha:1234
+--------
+Administrador:
+nome: Nancy
+sobrenome: Danila
+idade: 23
+ email:nancyDanila@frota.com
+ senha:1234
+--------
+Administrador:
+nome: Suzete
+sobrenome: Canda
+idade: 21
+ email:suzeteCanda@frota.com
+ senha:1234
+--------
+Administrador:
+nome: Melanie
+sobrenome: Melo
+idade: 21
+ email:melanieMelo@frota.com
+ senha:1234
+--------
+Administrador:
+nome: Suzete
+sobrenome: Canda
+idade: 21
+ email:n
+ senha:n
+--------
+-------- Gestores --------
+Gestor: 
+nome: Paulo
+sobrenome: Joao
+idade: 30
+ email:JoaoPaulo@frota.com
+ senha:1234
+--------
+Gestor: 
+nome: Andreza
+sobrenome: Martins
+idade: 35
+ email:AndrezaMar@frota.com
+ senha:1234
+--------
+Gestor: 
+nome: Andreza
+sobrenome: Martins
+idade: 35
+ email:v
+ senha:v
+--------
+-------- Mecânicos --------
+Mecanico: 
+nome: Paulo
+sobrenome: Andrade
+idade: 30
+especialidade: Manutencao
+email: PauloAndrade@frota.com
+senha: 1234
+--------
+-------- Motoristas --------
+nome: Mateus
+sobrenome: Buila
+idade: 40
+NumeroCarteira: 45LK877
+TipoMotorista: Professional
+
+Veiculo: Sem veiculo selecionado
+--------
+nome: Mateus
+sobrenome: Buila
+idade: 40
+NumeroCarteira: 45LK877
+TipoMotorista: Professional
+
+Veiculo: Sem veiculo selecionado
+--------
+-------- Carros --------
+marca: Ferrari
+modelo: GT445
+Matricula:LD-77-09-09-OP
+ano: 2019
+Motor: 
+modelo:Original do veiculo
+potencia:100
+ligado=false
+quilometragem:0 km
+Motorista: Sem motorista
+Pneu: Pneu 
+marca:Original do Veiculo
+tamanho:19
+tipo:Normal
+Clilibração: false
+
+numeroPortas=2
+--------
+-------- Motos --------
+marca: Dugati
+modelo: GT665
+Matricula:LD-65-09-EP
+ano: 2020
+Motor: 
+modelo:Original da moto
+potencia:65
+ligado=false
+quilometragem:0 km
+Motorista: Sem motorista
+Pneu: Pneu 
+marca:Original do Veiculo
+tamanho:14
+tipo:Normal
+Clilibração: false
+ Moto{possuiPartidaEletrica=true}
+--------
+-------- Bicicletas --------
+marca: Tingi
+modelo: BT6
+Matricula:677
+ano: 2010
+Motor: Sem Motor
+Motorista: Sem motorista
+Pneu: Pneu 
+marca:Original do Veiculo
+tamanho:14
+tipo:Normal
+Clilibração: false
+ Bicicleta{numeroMarchas=1}
+--------
